@@ -9,5 +9,5 @@ num2 = float(input("2nd number: "))
 # subtract 2 numbers
 difference = num1 - num2
 
-# print result
+# print result of subtraction
 print(difference)
