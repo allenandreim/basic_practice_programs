@@ -1,4 +1,4 @@
-# get a number
+# get a numbers
 # stop if invalid
 # sort numbers descending order
 
