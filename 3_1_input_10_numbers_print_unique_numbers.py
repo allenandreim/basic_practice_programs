@@ -19,7 +19,7 @@ numbers = [num1, num2, num3, num4, num5, num6, num7, num8, num9, num10]
 # find unique numbers
 unique_numbers = [num for num in numbers if numbers.count(num) == 1]
 
-# print result
+# print results
 if unique_numbers:
     print("Unique numbers:", unique_numbers)
 else:
