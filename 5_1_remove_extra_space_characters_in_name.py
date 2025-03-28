@@ -1,4 +1,4 @@
-# input full name with extra spaces
-# remove extra spaces
+# input full name with extra space
+# remove extra space
 # print output
 
